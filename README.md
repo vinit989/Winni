@@ -1,0 +1,2 @@
+# Winni
+subdomain takeover
